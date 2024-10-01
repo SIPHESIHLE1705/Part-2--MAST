@@ -15,4 +15,4 @@ By letting users peruse a well crafted menu with a variety of meals, including a
 ![image](https://github.com/user-attachments/assets/de6aa17c-b05d-4d2d-a279-b0cf7dd7c8b1)
 
 
-to see the interface more clearly
+To see the interface more clearly
